@@ -3,10 +3,7 @@
 title: "Data Visualisation of Project Tycho"
 author:
   - "Afzal Sufiya (22108480)" 
-  - "Himanshu Sheta (12204269)"
-  - "Subject: Data Visualization"
-  - "Semester: SS 2023 "
-date: 'Date: 2023-06-30'
+
 output: 
   html_document:
     number_sections : true
