@@ -1,8 +1,6 @@
  
 ---
-title: "Data Visualisation of Project Tycho"
-author:
-  - "Afzal Sufiya (22108480)" 
+title: "Unravelling Project Tycho: Global Health Data Analysis in R Programming"
 
 output: 
   html_document:
