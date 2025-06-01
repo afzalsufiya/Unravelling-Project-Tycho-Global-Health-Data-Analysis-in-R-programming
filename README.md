@@ -87,7 +87,7 @@ A boxplot (log-transformed) displays how deaths and cases vary across U.S. regio
 
 ## 🤝 Let's Connect
 
-If you're interested in data science, or public health analytics or have any question regarding this repo— feel free to connect or reach out!
+If you're interested in data science, or public health analytics or have any question regarding this repo, feel free to connect or reach out!
 
 🔗 LinkedIn: [www.linkedin.com/in/asufiya](https://www.linkedin.com/in/asufiya)
 
