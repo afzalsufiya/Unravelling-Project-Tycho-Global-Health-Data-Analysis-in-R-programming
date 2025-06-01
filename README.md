@@ -19,7 +19,7 @@ This project explores historical epidemiological data in the United States from 
 - **Libraries**: 
   - `dplyr`, `ggplot2`, `gganimate`, `readr`, `plotly`, `shiny`, `tidyr`, `scales`, `RColorBrewer`
 - **Data Sources**:
-  - [Project Tycho](https://www.tycho.pitt.edu/)
+  - [Project Tycho](https://www.tycho.pitt.edu/) ( Note: Download dataset from this link: [ProjectTycho_Level2_v1.1.0.csv](https://drive.google.com/file/d/1Ur6xlvX_fd-UMscyghyi3pFiNPAjUYzx/view?usp=sharing) )
   - [US Census Regions](https://github.com/cphalpert/census-regions/blob/master/us%20census%20bureau%20regions%20and%20divisions.csv)
 
 ---
